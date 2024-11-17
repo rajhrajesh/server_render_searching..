@@ -21,4 +21,4 @@ This is a simple React application that fetches and displays stories from the [H
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rajhrajesh/hackers_stories.git
+   git clone https://github.com/rajhrajesh/server_render_searching...git
