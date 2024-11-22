@@ -29,7 +29,7 @@ This is a simple React application that fetches and displays stories from the [H
 
 2. Navigate to the project directory:
    ```bash
-   cd hackers_stories
+   cd server_render_searching..
    ```
 
 3. Install the dependencies:
